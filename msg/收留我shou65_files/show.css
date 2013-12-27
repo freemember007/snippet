@@ -1,0 +1,95 @@
+/**
+ * talk show.
+ */
+.message {
+  margin-bottom: 12px;
+}
+.message:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+.message img {
+/*  width: 40px;
+  height: 40px;
+  border: 1px solid #ccc;
+  box-shadow: 3px 3px 3px #ccc;*/
+}
+.message .text {
+  padding: 11px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 5px rgba(216, 216, 216, 0.75);
+  max-width: 300px;
+}
+.message-left .photo {
+  float: left;
+  margin-right: 12px;
+}
+.message-left .text {
+  float: left;
+  background: #F5F5F5;
+  border: 1px solid #A3A3A3;
+  word-wrap: break-word;
+}
+.message-left .text .nickname {
+  color: #7E98AC;
+  text-shadow: 0 1px #E0E0E0;
+}
+.message-right .photo {
+  float: right;
+  margin-left: 12px;
+}
+.message-right .text {
+  float: right;
+  background: #FCFCFC;
+  border: 1px solid #ADADAD;
+  word-wrap: break-word;
+}
+.message-right .text .nickname {
+  color: #A0A0A0;
+  text-shadow: 0 1px #FFF;
+}
+.datetime {
+  text-align: center;
+  margin-bottom: 12px;
+}
+.datetime span {
+  display: inline-block;
+  background: #C0C0C0;
+  border-radius: 3px;
+  padding: 0 6px;
+  color: #fff;
+  font-size: 12px;
+}
+.sendtext .photo {
+  float: left;
+  margin-right: 10px;
+}
+.sendtext .text {
+  background: none;
+  padding: 0;
+  box-shadow: none;
+  max-width: 500px;
+}
+.sendtext .text textarea {
+  width: 300px;
+  height: 32px;
+}
+.sendtext .text .btn {
+  margin-left: 6px;
+  margin-top: -10px;
+  line-height: 30px;
+}
+.avatar{
+  margin: 0;
+}
+
+@media(max-width:480px) {
+  .sendtext .text textarea {
+    width: 220px;
+  }
+}
+

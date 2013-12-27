@@ -1,0 +1,39 @@
+.coop-list {
+  overflow: hidden;
+  zoom: 1;
+  margin-bottom: 20px;
+}
+.coop-list a {
+  margin-right: 5px;
+  padding-left: 35px;
+  padding-top: 7px;
+  line-height: 36px;
+  background: url(/images/sns_icon_only.png) no-repeat;
+}
+.coop-list a.weibo { 
+	background-position:0 0px; 
+}
+.coop-list a.tqq2 { 
+	background-position:0 -38px; 
+}
+.coop-list a.douban { 
+	background-position:0 -79px; 
+}
+.coop-list a.tudou { 
+	background-position:0 -117px; 
+}
+
+/*时间戳 旅行轨迹*/
+.datetime {
+  color:#999999;
+}
+
+.alert {
+  padding: 8px 35px 8px 14px;
+  margin-bottom: 20px;
+  text-shadow: 0px 0px 0px rgba(255, 255, 255, 0.5);
+  background-color: #41A075;
+  border: 1px solid rgb(251, 238, 213);
+  border-radius: 4px;
+  color: #fff
+}

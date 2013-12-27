@@ -1,0 +1,24 @@
+.coop-list {
+	overflow: hidden; margin-bottom: 20px; zoom: 1;
+}
+.coop-list a {
+	background: url("/images/sns_icon_only.png") no-repeat; line-height: 36px; padding-top: 7px; padding-left: 35px; margin-right: 5px;
+}
+.coop-list a.weibo {
+	
+}
+.coop-list a.tqq2 {
+	background-position: 0px -38px;
+}
+.coop-list a.douban {
+	background-position: 0px -79px;
+}
+.coop-list a.tudou {
+	background-position: 0px -117px;
+}
+.datetime {
+	color: rgb(153, 153, 153);
+}
+.alert {
+	padding: 8px 35px 8px 14px; border-radius: 4px; border: 1px solid rgb(251, 238, 213); color: rgb(255, 255, 255); margin-bottom: 20px; background-color: rgb(65, 160, 117); text-shadow: 0px 0px 0px rgba(255, 255, 255, 0.5);
+}

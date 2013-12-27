@@ -1,0 +1,132 @@
+@font-face {
+	font-family: Font-Awesome-Ext;
+	src: url(../fonts/ext/fontawesome-ext-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/ext/fontawesome-ext-webfont.woff) format("woff"), url(../fonts/ext/fontawesome-ext-webfont.ttf) format("truetype"), url(../fonts/ext/fontawesome-ext-webfont.svg#Font-Awesome-More) format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+.icon-accessibility-sign::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-bike-sign::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-bus-sign::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-car-sign::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-taxi-sign::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-truck-sign::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-adobe-pdf::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-ms-excel::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-ms-ppt::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-ms-word::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-zip-file::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-css3::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-html5::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-layers::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-map::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-chrome::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-firefox::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-ie::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-opera::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-safari::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-rss-sign::before {
+	width: auto; height: auto; line-height: normal; font-family: "Font-Awesome-Ext"; font-style: normal; font-weight: normal; text-decoration: inherit; margin-top: 0px; vertical-align: baseline; display: inline; background-image: none; background-repeat: repeat; -webkit-font-smoothing: antialiased; speak: none;
+}
+.icon-accessibility-sign::before {
+	content: "\f200";
+}
+.icon-bike-sign::before {
+	content: "\f201";
+}
+.icon-bus-sign::before {
+	content: "\f202";
+}
+.icon-car-sign::before {
+	content: "\f203";
+}
+.icon-taxi-sign::before {
+	content: "\f204";
+}
+.icon-truck-sign::before {
+	content: "\f205";
+}
+.icon-adobe-pdf::before {
+	content: "\f206";
+}
+.icon-ms-excel::before {
+	content: "\f207";
+}
+.icon-ms-ppt::before {
+	content: "\f208";
+}
+.icon-ms-word::before {
+	content: "\f209";
+}
+.icon-zip-file::before {
+	content: "\f20a";
+}
+.icon-css3::before {
+	content: "\f20b";
+}
+.icon-html5::before {
+	content: "\f20c";
+}
+.icon-layers::before {
+	content: "\f20d";
+}
+.icon-map::before {
+	content: "\f20e";
+}
+.icon-chrome::before {
+	content: "\f210";
+}
+.icon-firefox::before {
+	content: "\f211";
+}
+.icon-ie::before {
+	content: "\f212";
+}
+.icon-opera::before {
+	content: "\f213";
+}
+.icon-safari::before {
+	content: "\f214";
+}
+.icon-rss-sign::before {
+	content: "\f215";
+}

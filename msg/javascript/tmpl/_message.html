@@ -1,0 +1,24 @@
+<div class="message message-{{=it.direction}}">
+	<div class="photo">
+		<a target="_blank" href="{{=it.user_url}}">
+			<img src="{{=it.avatar_url}}"></a>
+	</div>
+	<div class="text">
+		<a target="_blank" class="nickname" href="{{=it.user_url}}">{{=it.nickname}}</a>
+		<!-- 文本 -->
+		{{=it.content}}
+		<!-- 图片 -->
+		<a target="_blank" href="{{=it.image_url}}">
+          <img src="{{=it.image_url}}">
+      	</a>
+      	<!-- 声音 -->
+      	<audio controls='controls' preload='auto'>
+			<source src='{{=it.sound_url_amr}}' type='audio/AMR' />
+			<source src='{{=it.sound_url_ogg}}' type='audio/ogg' />
+			<source src='{{=it.sound_url_mpeg}}' type='audio/mpeg' />
+			你的浏览器不支持audio元素
+		</audio>
+      	<!-- 地图 -->
+      	{{=it.location}}
+	</div>
+</div>
